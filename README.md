@@ -13,3 +13,7 @@ It is developed in JavaScript on [https://replit.com/](https://replit.com/@AliAm
 - Takes User's Name as Input
 - Has Ability to check highscores
 - Ask multiple questions, check answer is correct or not
+
+#Screenshot
+
+![snapshot](Capture.PNG)
